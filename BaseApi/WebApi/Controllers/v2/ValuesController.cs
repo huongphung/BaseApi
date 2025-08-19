@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace WebApi.Controllers
+namespace WebApi.Controllers.v2
 {
     [ApiVersion("2.0")]
     public class ValuesController : BaseApiController
