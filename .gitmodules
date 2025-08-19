@@ -1,0 +1,3 @@
+[submodule "BaseApi/Core/BaseLibrary"]
+	path = BaseApi/Core/BaseLibrary
+	url = https://github.com/huongphung/BaseLibrary.git
